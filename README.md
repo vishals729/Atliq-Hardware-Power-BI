@@ -1,4 +1,4 @@
-# PowerBI-Projects
+# Atliq Hardware [Power BI | SQL]
 Sales Insights for Atliq Hardware 
 Designed a Power BI dashboard to understand Atliq hardware goods
 and sales trend.The final dashboard was effective at displaying the sales trend of Atliq
